@@ -4,8 +4,6 @@ This repository contains the work completed during my participation in the **Pis
 
 ## Overview
 
-## Key Areas of Focus
-
 ### 1. **Basic C Programming**
    The foundational exercises focused on understanding the syntax and structure of the C language. These exercises included:
    - Implementing basic functions such as input/output handling, simple arithmetic, and string manipulation.
