@@ -84,11 +84,11 @@ To compile and run any of the exercises or projects, follow these general steps:
    ```bash
    ./exercise_name
    ```
-\
+
 ## License
 
-This repository is intended for educational purposes and personal use. All code within the repository is a result of my participation in the **Piscine** at **42 Fundación Telefónica**. Feel free to review the code but note that it is not intended for production or commercial use.
+This repository is intended for educational purposes and personal use. All code within the repository is a result of my participation in the **Piscine** at **42 Fundación Telefónica**. Feel free to review the code but note that it is not intended for production or commercial use. There are exercises with errors and bugs, this code reflects my coding knowledge at the begginging of 42.
 
 ---
 
-Thank you for exploring my Piscine projects! Feel free to reach out for any questions or clarifications.
+Thank you for exploring my Piscine projects!
