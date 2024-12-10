@@ -69,20 +69,20 @@ To compile and run any of the exercises or projects, follow these general steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/piscine-42-ft-repo.git
-   cd piscine-42-ft-repo
+   git clone https://github.com/PabloXOC/42_my_piscine.git piscine
+   cd piscine
    ```
 
 2. **Compile the project**:
    Each exercise or project can be compiled using the following command:
    ```bash
-   gcc -Wall -Wextra -Werror -o exercise_name exercise_name.c
+   gcc -Wall -Wextra -Werror -o exercise_name.c
    ```
 
 3. **Run the program**:
    After compiling, run the program using:
    ```bash
-   ./exercise_name
+   ./a.out
    ```
 
 ## License
